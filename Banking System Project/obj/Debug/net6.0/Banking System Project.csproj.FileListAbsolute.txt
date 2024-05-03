@@ -1,0 +1,14 @@
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\bin\Debug\net6.0\Banking System Project.exe
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\bin\Debug\net6.0\Banking System Project.deps.json
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\bin\Debug\net6.0\Banking System Project.runtimeconfig.json
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\bin\Debug\net6.0\Banking System Project.dll
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\bin\Debug\net6.0\Banking System Project.pdb
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\obj\Debug\net6.0\Banking System Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\obj\Debug\net6.0\Banking System Project.AssemblyInfoInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\obj\Debug\net6.0\Banking System Project.AssemblyInfo.cs
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\obj\Debug\net6.0\Banking System Project.csproj.CoreCompileInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\obj\Debug\net6.0\Banking System Project.dll
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\obj\Debug\net6.0\refint\Banking System Project.dll
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\obj\Debug\net6.0\Banking System Project.pdb
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\obj\Debug\net6.0\Banking System Project.genruntimeconfig.cache
+D:\Badr\programming\Route\videos\Asp.net\Projects\Banking System\Banking System Solution\Banking System Project\obj\Debug\net6.0\ref\Banking System Project.dll
