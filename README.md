@@ -42,11 +42,15 @@ This is an advanced banking system project implemented in C# using Object-Orient
 
 1- Clone the Repository: Clone the repository to your local machine using Git:
     git clone https://github.com/yourusername/banking-system-csharp.git
+    <br>
 2- Open the Project: Open the project in Visual Studio or your preferred C# IDE.
+<br>
 3- Run the Project: Build and run the project from the IDE.
+<br>
 4- Create Account:
   * Provide your ID number.
   * Specify the type of account (checking or savings).
+<br>
 5- Login:
   * Use your password and unique ID number to log in.
 <br>
