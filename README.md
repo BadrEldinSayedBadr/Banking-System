@@ -4,7 +4,7 @@ This is an advanced banking system project implemented in C# using Object-Orient
 
 <br>
 
-[!Alt ](class_diagram.png)
+![Alt Text](class_diagram.png)
 
 
 <br>
@@ -48,7 +48,6 @@ This is an advanced banking system project implemented in C# using Object-Orient
 4- Create Account:
   * Provide your ID number.
   * Specify the type of account (checking or savings).
-<br>
 5- Login:
   * Use your password and unique ID number to log in.
 <br>
