@@ -4,6 +4,8 @@ This is an advanced banking system project implemented in C# using Object-Orient
 
 <br>
 
+## Class Diagram
+
 ![Alt Text](class_diagram.png)
 
 
