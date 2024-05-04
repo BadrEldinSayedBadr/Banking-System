@@ -2,7 +2,7 @@
 
 This is an advanced banking system project implemented in C# using Object-Oriented Programming (OOP) principles. The system allows users to create accounts, specify the type of account (checking or savings) using their ID number, and perform various banking operations such as withdrawal, deposit, and balance checking.
 
-<br>
+
 
 ## Class Diagram
 
@@ -42,11 +42,8 @@ This is an advanced banking system project implemented in C# using Object-Orient
 
 1- Clone the Repository: Clone the repository to your local machine using Git:
     git clone https://github.com/yourusername/banking-system-csharp.git
-<br>
 2- Open the Project: Open the project in Visual Studio or your preferred C# IDE.
-<br>
 3- Run the Project: Build and run the project from the IDE.
-<br>
 4- Create Account:
   * Provide your ID number.
   * Specify the type of account (checking or savings).
@@ -54,9 +51,16 @@ This is an advanced banking system project implemented in C# using Object-Orient
   * Use your password and unique ID number to log in.
 <br>
 6- Perform Operations:
-  * Choose from withdrawal, deposit, or check balance options.
-  * Follow the prompts to complete the operation.
+ * Choose from withdrawal, deposit, or check balance options.
+ * Follow the prompts to complete the operation.
 
+
+
+  <br>
+
+  ## Contributing
+
+  Contributions are welcome! If you have any suggestions, improvements, or feature requests, please open an issue or submit a pull request.
 
 
 
@@ -66,11 +70,6 @@ This is an advanced banking system project implemented in C# using Object-Orient
 
   This project is licensed under the MIT License.
 
-  <br>
-
-  ## Contributing
-
-  Contributions are welcome! If you have any suggestions, improvements, or feature requests, please open an issue or submit a pull request.
 
 
 
